@@ -12,7 +12,7 @@
 import math
 import numpy as np
 
-N = 20               # number of other members in the room
+N = 9               # number of other members in the room
 Top = 0.1           # top percentile group that you are in (expressed as decimal)
 Trials = 1000000    # number of trials to determine probability 
 
